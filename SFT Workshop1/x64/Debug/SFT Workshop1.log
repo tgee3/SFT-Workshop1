@@ -1,0 +1,5 @@
+﻿  testing.c
+C:\Users\Osthavula\source\repos\SFT\SFT Workshop1\testing.c(14,11): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Osthavula\source\repos\SFT\SFT Workshop1\testing.c(52,11): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Osthavula\source\repos\SFT\SFT Workshop1\testing.c(53,13): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  SFT Workshop1.vcxproj -> C:\Users\Osthavula\source\repos\SFT\SFT Workshop1\x64\Debug\SFT Workshop1.exe
